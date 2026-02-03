@@ -2,12 +2,18 @@
 # Bank Marketing Campaign Analysis – Power BI
 
 ## Project Overview
-This project analyzes a bank marketing campaign to understand customer subscription behavior and evaluate campaign performance using interactive Power BI dashboards.
+This project analyzes a bank marketing campaign to understand customer subscription behavior and evaluate campaign performance using interactive Power BI dashboards.The dataset contains customer demographic and campaign interaction data from a bank marketing campaign.
+
+
+## Objective
+To analyze customer response patterns and identify factors influencing term deposit subscriptions.
+
 
 ## Tools Used
 - Power BI
 - DAX
-- Excel / CSV Dataset
+- Excel (CSV Dataset)
+
 
 ## Key Insights
 - Total Customers: 41,000+
@@ -29,5 +35,8 @@ This project analyzes a bank marketing campaign to understand customer subscript
 
 
 ## Files
-- Power BI Dashboard (.pbix)
 - Dashboard Screenshot (PNG)
+
+
+Note: Power BI (.pbix) file is not included due to file size/privacy considerations.
+
